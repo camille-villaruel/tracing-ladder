@@ -1,0 +1,15 @@
+{
+    "top_width_margin":100,
+    "left_width_margin":150,
+    "right_width_margin":150,
+    "bottom_width_margin":100,
+    "ladder_width": 20,
+    "top_secondary_width": 50,
+
+    "player_color": "#ED7014",
+    "top_color" : "#1A3247",
+    "bottom_color": "#D0E3CC",
+    "top_margin_color" : "#90B6D6",
+    "ladder_color": "#573A24",
+    "left_right_color": "#F5F5F4"
+}
